@@ -1,5 +1,3 @@
-# planodenegocio
-Atividade sobre plano de negócios
 
 1. O que é um plano de negócio e qual é sua principal finalidade?
 
@@ -16,31 +14,29 @@ Atividade sobre plano de negócios
 7. Por que definir o público-alvo é essencial para o sucesso de um negócio?
 
 8. Quais informações devem constar na descrição da empresa?
-
+    
 9. Qual é a importância do plano de marketing dentro do plano de negócio?
-10. 
-11. O que deve conter em um plano operacional?
 
-12. Qual é o objetivo do plano financeiro?
+10. O que deve conter em um plano operacional?
 
-13. O que são custos fixos e variáveis? Dê exemplos.
+11. Qual é o objetivo do plano financeiro?
 
-14. Como calcular o ponto de equilíbrio de uma empresa?
+12. O que são custos fixos e variáveis? Dê exemplos.
 
-15. O que são projeções financeiras e por que são importantes?
+13. Como calcular o ponto de equilíbrio de uma empresa?
 
-16. O que é capital de giro e como ele afeta a operação da empresa?
+14. O que são projeções financeiras e por que são importantes?
 
-17. Qual é o papel da pesquisa de concorrência no plano de negócio?
+15. O que é capital de giro e como ele afeta a operação da empresa?
 
-18. Como o plano de negócio pode ajudar a captar investidores?
+16. Qual é o papel da pesquisa de concorrência no plano de negócio?
 
-19. Quais os principais erros ao elaborar um plano de negócio?
+17. Como o plano de negócio pode ajudar a captar investidores?
 
-20. O que é e como deve ser elaborado o sumário executivo de um plano de negócio?
+18. Quais os principais erros ao elaborar um plano de negócio?
 
-21. Em que momento é necessário revisar ou atualizar um plano de negócio?
+19. O que é e como deve ser elaborado o sumário executivo de um plano de negócio?
 
----
+20. Em que momento é necessário revisar ou atualizar um plano de negócio?
 
-Se quiser, posso transformar essas perguntas em um quiz com alternativas ou um gabarito para correção. Deseja isso?
+
